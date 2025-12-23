@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/biche/Desktop/GitHub/BDL_Project/BDL_Project/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/biche/Desktop/GitHub/BDL_Project/BDL_Project/Content/Personal/Materiale/M_Teren.uasset",
+				"C:/Users/biche/Desktop/GitHub/BDL_Project/BDL_Project/Content/Personal/Materiale/M_Culoare.uasset",
+				"C:/Users/biche/Desktop/GitHub/BDL_Project/BDL_Project/Content/Personal/grass-seamless__1_.uasset",
+				"C:/Users/biche/Desktop/GitHub/BDL_Project/BDL_Project/Content/Personal/ground-seamless__1_.uasset",
+				"C:/Users/biche/Desktop/GitHub/BDL_Project/BDL_Project/Content/Personal/mesh/Road.uasset",
+				"C:/Users/biche/Desktop/GitHub/BDL_Project/BDL_Project/Content/NivelAntrenament.umap",
+				"C:/Users/biche/Desktop/GitHub/BDL_Project/BDL_Project/Content/Personal/Materiale/M_Rosu.uasset",
+				"C:/Users/biche/Desktop/GitHub/BDL_Project/BDL_Project/Content/Personal/Materiale/M_Transparent.uasset",
+				"C:/Users/biche/Desktop/GitHub/BDL_Project/BDL_Project/Content/Personal/Materiale/M_metallucios.uasset",
+				"C:/Users/biche/Desktop/GitHub/BDL_Project/BDL_Project/Content/Personal/Materiale/M_lucos_si_mat.uasset",
+				"C:/Users/biche/Desktop/GitHub/BDL_Project/BDL_Project/Content/Personal/Materiale/M_Emisiv.uasset",
+				"C:/Users/biche/Desktop/GitHub/BDL_Project/BDL_Project/Content/Personal/Materiale/M_Gradient2culori.uasset",
+				"C:/Users/biche/Desktop/GitHub/BDL_Project/BDL_Project/Content/Personal/pioni/Pion.uasset",
+				"C:/Users/biche/Desktop/GitHub/BDL_Project/BDL_Project/Content/Personal/Materiale/M_GradientTransparent.uasset",
+				"C:/Users/biche/Desktop/GitHub/BDL_Project/BDL_Project/Content/Personal/Materiale/M_Animat.uasset",
+				"C:/Users/biche/Desktop/GitHub/BDL_Project/BDL_Project/Content/Personal/caracter/Caracter.uasset",
+				"C:/Users/biche/Desktop/GitHub/BDL_Project/BDL_Project/Content/Personal/Materiale/M_transparent_si_opac.uasset"
+			]
+		}
+	]
+}

@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-BDL_Project.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/biche/Desktop/GitHub/BDL_Project/BDL_Project/Intermediate/Build/Win64/x64/BDL_ProjectEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/biche/Desktop/GitHub/BDL_Project/BDL_Project/Intermediate/Build/Win64/x64/UnrealEditor/Development/BDL_Project/BDL_Project.cpp.obj"
+"C:/Users/biche/Desktop/GitHub/BDL_Project/BDL_Project/Intermediate/Build/Win64/x64/UnrealEditor/Development/BDL_Project/PerModuleInline.gen.cpp.obj"
+"C:/Users/biche/Desktop/GitHub/BDL_Project/BDL_Project/Intermediate/Build/Win64/x64/UnrealEditor/Development/BDL_Project/Default.rc2.res"
+/OUT:"C:/Users/biche/Desktop/GitHub/BDL_Project/BDL_Project/Intermediate/Build/Win64/x64/UnrealEditor/Development/BDL_Project/UnrealEditor-BDL_Project.lib"

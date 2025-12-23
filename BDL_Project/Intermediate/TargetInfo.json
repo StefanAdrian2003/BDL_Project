@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BDL_Project",
+			"Path": "..\\Source\\BDL_Project.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BDL_ProjectEditor",
+			"Path": "..\\Source\\BDL_ProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
